@@ -3,7 +3,7 @@
 Developer (and swimmer 🏊‍♂️) based in Rome 🇮🇹. I like building projects and experimenting with
 different stacks and languages: so far C, Python, JavaScript, TypeScript, Bash, SQL.
 
-I'm currently learning low-level system programming in C. What a headache 😩
+I'm currently learning low-level system programming in C, and backend in the free time. What a headache 😩
 
 ## 🎓 [Certifications](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/details/certifications/)
 
@@ -17,12 +17,6 @@ A couple of projects I really like:
 
 - **[Lighter](https://github.com/BartolelliL/Lighter)** (JavaScript): command-line tool for splitting large files into smaller ones
 - **[Game Theory](https://github.com/BartolelliL/Game-Theory)** (Python): command-line simulator of the iterated prisoner's dilemma as example of the mathematical model that studies human behavior
-
-## 🧰 Languages & tools
-
-C, Python, JavaScript, TypeScript, Bash, SQL.
-
-**Learning**: System Programming, backend in the free time.
 
 ## 📫 Contact
 
