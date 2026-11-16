@@ -26,7 +26,7 @@ C, Python, JavaScript, TypeScript, Bash, SQL.
 
 ## 📫 Contact
 
-[Email me](mailto:leonardo.bartolelli@gmail.com) · [LinkedIn]([LINK](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/))
+[Email me](mailto:leonardo.bartolelli@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/)
 
 <!--
 
