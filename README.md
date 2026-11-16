@@ -5,7 +5,7 @@ different stacks and languages: so far C, Python, JavaScript, TypeScript, Bash, 
 
 I'm currently learning low-level system programming in C. What a headache 😩
 
-🎓 ## [Certifications](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/details/certifications/)
+## 🎓 [Certifications](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/details/certifications/)
 
 - **Python**: ZTM Python Bootcamp
 - **Artificial Intelligence**: ZTM AI Course
