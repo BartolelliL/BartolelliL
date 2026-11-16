@@ -1,11 +1,11 @@
 # Hi, I'm Leonardo 👋
 
-Developer based in Rome 🇮🇹. I like building projects and experimenting with
+Developer (and swimmer 🏊‍♂️) based in Rome 🇮🇹. I like building projects and experimenting with
 different stacks and languages: so far C, Python, JavaScript, TypeScript, Bash, SQL.
 
-I am now learning low-level system programming with C, what a headache 😩...
+I'm currently learning low-level system programming in C. What a headache 😩
 
-## 🎓 Certifications
+## [🎓 Certifications](https://www.linkedin.com/in/leonardo-bartolelli-b85213321/details/certifications/)
 
 - **Python**: ZTM Python Bootcamp
 - **Artificial Intelligence**: ZTM AI Course
@@ -13,7 +13,7 @@ I am now learning low-level system programming with C, what a headache 😩...
 
 ## 🛠️ Projects
 
-I've built some small projects I could show, here are two I really like:
+A couple of projects I really like:
 
 - **[Lighter](https://github.com/BartolelliL/Lighter)** (JavaScript): command-line tool for splitting large files into smaller ones
 - **[Game Theory](https://github.com/BartolelliL/Game-Theory)** (Python): command-line simulator of the iterated prisoner's dilemma as example of the mathematical model that studies human behavior
